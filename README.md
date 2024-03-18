@@ -28,7 +28,7 @@ To begin working with the Text Summarizer NLP project, follow these steps:
 ## Contributing
 Contributions to the Text Summarizer NLP project are welcome! If you have any ideas, bug fixes, or improvements, please feel free to submit a pull request on GitHub.
 
-##Uses of NLP
+## Uses of NLP
 - Market Research: Analysts and researchers can extract key insights and trends from market reports, news articles, and customer reviews.
 - Social Media Management: Social media managers can create engaging captions for posts or summarize user feedback and discussions.
 - Legal and Compliance: Legal professionals and compliance officers can summarize legal documents, contracts, and regulatory filings to identify critical clauses and compliance requirements.
